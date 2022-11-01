@@ -1,2 +1,2 @@
-# News_Bot_2.0
+# News_Bot_Help
 Updated Newsbot
